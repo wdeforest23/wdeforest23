@@ -1,10 +1,9 @@
-[![MasterHead](https://dribbble.com/shots/14965476-Seattle-Skyline)]
-<h1 align="center">Hi 👋, I'm William DeForest</h1>
-<h3 align="center">A graduate student (and athlete!⚾)</h3>
+![MasterHead](./github-header-image.png)
+<h1 align="center">Hi 👋, everyone! I'm William DeForest 🙂</h1>
+<h3 align="center">Grad student (and athlete!⚾) at the University of Chicago</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/OyGx.gif">
 
-### Hi 👋, everyone! I'm William DeForest 🙂
-- I'm a graduate student (and athlete!⚾) pursuing a Masters in Applied Data Science at the University of Chicago Data Science Institute. 
+- MS in Applied Data Science student at the University of Chicago Data Science Institute.
 - I'm also a 2023 graduate from Claremont McKenna College where I majored in Economics with a sequence in Data Science.
 - I call Seattle, WA home, but I'm currently living, studying and playing baseball in Chicago, IL.
 - Whether it's on the field, in the classroom, or at the office, I love being a part of a team!
@@ -18,7 +17,7 @@
 - Leadership & Consulting for Data Science - Identifying organizational challenges, designing quantitative analyses that offer credible, practicable
 solutions, articulating data science concepts and creating engaging presentations for stakeholders
 
-### Projects
+### 🔭 Projects
 
 
 
