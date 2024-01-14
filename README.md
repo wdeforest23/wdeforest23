@@ -18,11 +18,15 @@
 solutions, articulating data science concepts and creating engaging presentations for stakeholders
 
 ### 🔭 Projects
-
-
-
-
-
+- Data Engineering Final Project
+- Leadership & Consulting Final Project
+- DBacks Project Description
+- Dodgers Capstone Description
+- Storyhouse Ventures Description
+- ML Stats Learning Final Project
+- Senior Thesis
+- Environmental Econ Final Project
+- Leadership in Sports UD Pres. (Maybe)
 
 
 - 📫 How to reach me **wdeforest@uchicago.edu**
