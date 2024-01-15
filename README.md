@@ -3,23 +3,23 @@
 <h3 align="left">Grad student (and athlete!⚾) at the University of Chicago</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/OyGx.gif">
 
-### 💁‍♂️ About Me
+### 💁‍♂️ About Me...
 - MS in Applied Data Science student at the University of Chicago Data Science Institute.
-- I'm also a 2023 graduate from Claremont McKenna College where I majored in Economics with a sequence in Data Science.
+- 2023 graduate from Claremont McKenna College where I majored in Economics with a sequence in Data Science.
 - I call Seattle, WA home, but I'm currently living, studying and playing baseball in Chicago, IL.
-- I am a catcher for the University of Chicago Maroons baseball team
+- I am a catcher for the University of Chicago Maroons baseball team.
 - Whether it's on the field, in the classroom, or at the office, I love being a part of a team!
 - I am excited by the new frontier of AI and I'm tailoring my coursework to gain experience in this area.
 - I'm currently seeking data analyst, data scientist, or product management Summer 2024 internships in the Greater Seattle or Bay Areas.
 
-### 🌱 I'm Currently Learning
+### 🌱 I'm Currently Learning...
 - Data Engineering Platforms - SQL and NoSQL systems, relational and analytical data models, ETL functions 
 - Natural Language Processing - Text processing and sentiment analysis, machine reading comprehension, generating text using prompts and steer models, creating a RAG agent
 - Data Mining Principles - Cluster analysis, dimension reduction via principal component analysis, predictive modeling using regression, classification, decision trees, random forest, bagging, boosting, and ensemble models, k-nearest neighbors, support vector machines, neural networks, recommendation engines, and social network analysis.
 - Leadership & Consulting for Data Science - Identifying organizational challenges, designing quantitative analyses that offer credible, practicable
 solutions, articulating data science concepts and creating engaging presentations for stakeholders
 
-### 🔭 Projects
+### 🔭 Projects...
 - Data Engineering Final Project
 - Leadership & Consulting Final Project
 - DBacks Project Description
