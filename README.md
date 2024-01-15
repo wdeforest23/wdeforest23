@@ -22,13 +22,10 @@ solutions, articulating data science concepts and creating engaging presentation
 ### 🔭 Projects...
 - [Predicting NBA Basketball Player Salaries](https://github.com/wdeforest23/Predicting-NBA-Basketball-Player-Salaries) | Data Engineering Final Project | Dec 2023
 - [E-Bookstore Recommendation Engine (RFM and KNN clustering)](https://github.com/wdeforest23/EBookstore-RFM-Book-Recommendation-System) | Leadership & Consulting Final Project | Dec 2023
-- DBacks Project Description
-- [Predicting the Probability of Throwing Out Runners From the Outfield](https://github.com/wdeforest23/Predicting-the-Probability-of-Throwing-Out-Runners-From-the-Outfield) | CMC Data Science Capstone Project | May 2023
-- Storyhouse Ventures Description
-- [Predicting Recidivism Using Logistic Regression and Random Forest Modeling](https://github.com/wdeforest23/Predicting-Recidivism-DS-Stats-Learning-2022) | Data Science for Stat. Learning Final Project | Dec 2021
-- [Modeling the Performance-based Compensation of MLB Catchers](https://scholarship.claremont.edu/cmc_theses/3155/) | CMC Senior Thesis in Economics | Dec 2023
 - [Analyzing the Usage of Key Coronavirus Hashtags on Twitter to Track the Spread of Covid-19](https://github.com/wdeforest23/twitter_coronavirus) | Data Structures & Algorithms Final Project | May 2023
-
+- [Predicting the Probability of Throwing Out Runners From the Outfield](https://github.com/wdeforest23/Predicting-the-Probability-of-Throwing-Out-Runners-From-the-Outfield) | CMC Data Science Capstone Project | May 2023
+- [Modeling the Performance-based Compensation of MLB Catchers](https://scholarship.claremont.edu/cmc_theses/3155/) | CMC Senior Thesis in Economics | Dec 2022
+- [Predicting Recidivism Using Logistic Regression and Random Forest Modeling](https://github.com/wdeforest23/Predicting-Recidivism-DS-Stats-Learning-2022) | Data Science for Stat. Learning Final Project | Dec 2021
 
 
 <h3 align="left">Connect with me:</h3>
