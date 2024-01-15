@@ -25,7 +25,7 @@ solutions, articulating data science concepts and creating engaging presentation
 - DBacks Project Description
 - Dodgers Capstone Description
 - Storyhouse Ventures Description
-- ML Stats Learning Final Project
+- [Predicting Recidivism Using Logistic Regression and Random Forest Modeling](https://github.com/wdeforest23/Predicting-Recidivism-DS-Stats-Learning-2022) | Data Science for Stat. Learning Final Project | Dec 2021
 - Senior Thesis
 - Environmental Econ Final Project
 - Leadership in Sports UD Pres. (Maybe)
