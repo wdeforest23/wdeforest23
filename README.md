@@ -26,7 +26,7 @@ solutions, articulating data science concepts and creating engaging presentation
 - Dodgers Capstone Description
 - Storyhouse Ventures Description
 - [Predicting Recidivism Using Logistic Regression and Random Forest Modeling](https://github.com/wdeforest23/Predicting-Recidivism-DS-Stats-Learning-2022) | Data Science for Stat. Learning Final Project | Dec 2021
-- Senior Thesis
+- [Modeling the Performance-based Compensation of MLB Catchers](https://scholarship.claremont.edu/cmc_theses/3155/) | CMC Senior Thesis in Economics | Dec 2023
 - Environmental Econ Final Project
 - Leadership in Sports UD Pres. (Maybe)
 - [Analyzing the Usage of Key Coronavirus Hashtags on Twitter to Track the Spread of Covid-19](https://github.com/wdeforest23/twitter_coronavirus) | Data Structures & Algorithms Final Project | May 2023
