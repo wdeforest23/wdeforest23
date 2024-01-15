@@ -1,5 +1,5 @@
 ![MasterHead](./github-header-image.png)
-<h1 align="left">Hi 👋, everyone! I'm William DeForest 🙂</h1>
+<h1 align="left">Hi 👋, everyone! I'm William DeForest 😄</h1>
 <h3 align="left">Grad student (and athlete!⚾) at the University of Chicago</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/OyGx.gif">
 
