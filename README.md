@@ -21,7 +21,7 @@ solutions, articulating data science concepts and creating engaging presentation
 
 ### 🔭 Projects...
 - [Predicting NBA Basketball Player Salaries](https://github.com/wdeforest23/Predicting-NBA-Basketball-Player-Salaries) | Data Engineering Final Project | Dec 2023
-- Leadership & Consulting Final Project
+- [E-Bookstore Recommendation Engine (RFM and KNN clustering)](https://github.com/wdeforest23/EBookstore-RFM-Book-Recommendation-System) | Leadership & Consulting Final Project | Dec 2023
 - DBacks Project Description
 - Dodgers Capstone Description
 - Storyhouse Ventures Description
