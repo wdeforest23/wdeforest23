@@ -20,7 +20,7 @@
 solutions, articulating data science concepts and creating engaging presentations for stakeholders
 
 ### 🔭 Projects...
-- Data Engineering Final Project
+- [Predicting NBA Basketball Player Salaries](https://github.com/wdeforest23/Predicting-NBA-Basketball-Player-Salaries) | Data Engineering Final Project | Dec 2023
 - Leadership & Consulting Final Project
 - DBacks Project Description
 - Dodgers Capstone Description
