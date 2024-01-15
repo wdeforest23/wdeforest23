@@ -29,6 +29,7 @@ solutions, articulating data science concepts and creating engaging presentation
 - Senior Thesis
 - Environmental Econ Final Project
 - Leadership in Sports UD Pres. (Maybe)
+- [Analyzing the Usage of Key Coronavirus Hashtags on Twitter to Track the Spread of Covid-19](https://github.com/wdeforest23/twitter_coronavirus) | Data Structures & Algorithms Final Project | May 2023
 
 
 
