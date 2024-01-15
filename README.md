@@ -13,9 +13,9 @@
 - I'm currently seeking data analyst, data scientist, or product management Summer 2024 internships in the Greater Seattle or Bay Areas.
 
 ### 🌱 I'm Currently Learning...
-- Data Engineering Platforms - SQL and NoSQL systems, relational and analytical data models, ETL functions 
 - Natural Language Processing - Text processing and sentiment analysis, machine reading comprehension, generating text using prompts and steer models, creating a RAG agent
 - Data Mining Principles - Cluster analysis, dimension reduction via principal component analysis, predictive modeling using regression, classification, decision trees, random forest, bagging, boosting, and ensemble models, k-nearest neighbors, support vector machines, neural networks, recommendation engines, and social network analysis.
+- Data Engineering Platforms - SQL and NoSQL systems, relational and analytical data models, ETL functions 
 - Leadership & Consulting for Data Science - Identifying organizational challenges, designing quantitative analyses that offer credible, practicable
 solutions, articulating data science concepts and creating engaging presentations for stakeholders
 
@@ -23,12 +23,10 @@ solutions, articulating data science concepts and creating engaging presentation
 - [Predicting NBA Basketball Player Salaries](https://github.com/wdeforest23/Predicting-NBA-Basketball-Player-Salaries) | Data Engineering Final Project | Dec 2023
 - [E-Bookstore Recommendation Engine (RFM and KNN clustering)](https://github.com/wdeforest23/EBookstore-RFM-Book-Recommendation-System) | Leadership & Consulting Final Project | Dec 2023
 - DBacks Project Description
-- Dodgers Capstone Description
+- [Predicting the Probability of Throwing Out Runners From the Outfield](https://github.com/wdeforest23/Predicting-the-Probability-of-Throwing-Out-Runners-From-the-Outfield) | CMC Data Science Capstone Project | May 2023
 - Storyhouse Ventures Description
 - [Predicting Recidivism Using Logistic Regression and Random Forest Modeling](https://github.com/wdeforest23/Predicting-Recidivism-DS-Stats-Learning-2022) | Data Science for Stat. Learning Final Project | Dec 2021
 - [Modeling the Performance-based Compensation of MLB Catchers](https://scholarship.claremont.edu/cmc_theses/3155/) | CMC Senior Thesis in Economics | Dec 2023
-- Environmental Econ Final Project
-- Leadership in Sports UD Pres. (Maybe)
 - [Analyzing the Usage of Key Coronavirus Hashtags on Twitter to Track the Spread of Covid-19](https://github.com/wdeforest23/twitter_coronavirus) | Data Structures & Algorithms Final Project | May 2023
 
 
