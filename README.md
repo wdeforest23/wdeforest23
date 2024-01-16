@@ -1,7 +1,7 @@
 ![MasterHead](./github-header-image.png)
 <h1 align="left">Hi 👋, everyone! I'm William DeForest 😄</h1>
 <h3 align="left">Grad student (and athlete!⚾) at the University of Chicago</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/OyGx.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*ei_Ce5ZqUHkhF9N1oku3Hg.gif">
 
 ### 💁‍♂️ About Me...
 - MS in Applied Data Science student at the University of Chicago Data Science Institute.
