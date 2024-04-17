@@ -10,7 +10,7 @@
 - I am a catcher for the University of Chicago Maroons baseball team.
 - Whether it's on the field, in the classroom, or at the office, I love being a part of a team!
 - I am excited by the new frontier of AI and I'm tailoring my coursework to gain experience in this area.
-- I'm currently seeking data analyst, data scientist, or product management Summer 2024 internships in the Greater Seattle or Bay Areas.
+- I'm currently seeking data analyst, data scientist, or product management full-time roles in the Greater Seattle or Bay Areas.
 
 ### 🌱 I'm Currently Learning...
 - Natural Language Processing - Text processing and sentiment analysis, machine reading comprehension, generating text using prompts and steer models, creating a RAG agent
