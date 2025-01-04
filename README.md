@@ -1,23 +1,19 @@
 ![MasterHead](./github-header-image.png)
-<h1 align="left">Hi 👋, everyone! I'm William DeForest 😄</h1>
-<h3 align="left">Grad student (and athlete!⚾) at the University of Chicago</h3>
+# Hey, I'm Will 👋
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*ei_Ce5ZqUHkhF9N1oku3Hg.gif">
 
 ### 💁‍♂️ About Me...
-- MS in Applied Data Science student at the University of Chicago Data Science Institute.
-- 2023 graduate from Claremont McKenna College where I majored in Economics with a sequence in Data Science.
-- I call Seattle, WA home, but I'm currently living, studying and playing baseball in Chicago, IL.
-- I am a catcher for the University of Chicago Maroons baseball team.
-- Whether it's on the field, in the classroom, or at the office, I love being a part of a team!
-- I am excited by the new frontier of AI and I'm tailoring my coursework to gain experience in this area.
-- I'm currently seeking data analyst, data scientist, or product management full-time roles in the Greater Seattle or Bay Areas.
+- I'm a recent MS in Applied Data Science Grad (and student athlete ⚾) from the **University of Chicago**
+- I graduated in 2023 from **Claremont McKenna College** as an Econ and Data Science major
+- Home is Seattle, WA 🥰🏡
+- I love being a part of a team 🤝🙌
+- I'm fascinated by AI and I love reading about, exploring, and developing new AI applications
+- I'm looking for my first full-time job 😱 and I'm interested in data/product analyst, data scientist, or product management roles
 
 ### 🌱 I'm Currently Learning...
-- Natural Language Processing - Text processing and sentiment analysis, machine reading comprehension, generating text using prompts and steer models, creating a RAG agent
-- Data Mining Principles - Cluster analysis, dimension reduction via principal component analysis, predictive modeling using regression, classification, decision trees, random forest, bagging, boosting, and ensemble models, k-nearest neighbors, support vector machines, neural networks, recommendation engines, and social network analysis.
-- Data Engineering Platforms - SQL and NoSQL systems, relational and analytical data models, ETL functions 
-- Leadership & Consulting for Data Science - Identifying organizational challenges, designing quantitative analyses that offer credible, practicable
-solutions, articulating data science concepts and creating engaging presentations for stakeholders
+- AI Agents:
+- How to Build Better Habits Healthily
+- Snowboarding:
 
 ### 🔭 Projects...
 - [Predicting NBA Basketball Player Salaries](https://github.com/wdeforest23/Predicting-NBA-Basketball-Player-Salaries) | Data Engineering Final Project | Dec 2023
@@ -27,18 +23,26 @@ solutions, articulating data science concepts and creating engaging presentation
 - [Modeling the Performance-based Compensation of MLB Catchers](https://scholarship.claremont.edu/cmc_theses/3155/) | CMC Senior Thesis in Economics | Dec 2022
 - [Predicting Recidivism Using Logistic Regression and Random Forest Modeling](https://github.com/wdeforest23/Predicting-Recidivism-DS-Stats-Learning-2022) | Data Science for Stat. Learning Final Project | Dec 2021
 
+  ### 🌱 I'm Currently Reading...
 
-<h3 align="left">Connect with me:</h3>
 
-- 📫 **wdeforest@uchicago.edu**
-
-- 📄 **Resume:** [https://drive.google.com/file/d/1BlmzPsPOmKQW2aLhXZ8oPA2plX-n0iU-/view?usp=sharing](https://drive.google.com/file/d/1BlmzPsPOmKQW2aLhXZ8oPA2plX-n0iU-/view?usp=sharing)
+### Connect with me:
+- 📫 **williamdeforest29@gmail.com**
+- 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/william-deforest/))
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/william-deforest/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/william-deforest/" height="30" width="40" /></a>
-<a href="https://instagram.com/williamdeforest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="williamdeforest" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/william-deforest" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://instagram.com/williamdeforest" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+---
+
+### 🛠️ Languages and Tools
+<p>
+  <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/></a>
+</p>
 
