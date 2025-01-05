@@ -1,6 +1,6 @@
 ![MasterHead](./github-header-image.png)
 # Hey, I'm Will 👋
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*ei_Ce5ZqUHkhF9N1oku3Hg.gif">
+![github banner]()
 
 ### 💁‍♂️ About Me...
 - I'm a recent MS in Applied Data Science Grad (and student athlete ⚾) from the **University of Chicago**
