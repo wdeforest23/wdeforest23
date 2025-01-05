@@ -12,10 +12,19 @@
 
 ### 🌱 I'm Currently Learning...
 - AI Agents:
-- How to Build Better Habits Healthily
-- Snowboarding:
+  - Updating my UChicago Capstone Team's Project, [InternationAlly](https://github.com/Property-Pilot/Property-Pilot), to use a more agentic workflow!
+    - LangChain
+    - crewAI
+- Data Science Interview Prep
+  - Ace the Data Science Interview
+  - Leetcode
+  - DataLemur
+- Snowboarding 🏂
 
 ### 🔭 Projects...
+- [InternationAlly](https://github.com/Property-Pilot/Property-Pilot) | UChicago MS Applied Data Science Capstone Project - Awarded Honorable Mention | Dec 2024
+- [Will AI Take Your Job?](https://github.com/wdeforest23/Will-AI-Take-Your-Job--NLP-Final-Project) | Natural Language Processing Final Project - Awared Best in Class | Dec 2024
+- [Deep Vision System for Vehicle Make/Model Recognition and Multi-Object Detection](https://github.com/wdeforest23/vehicle-image-classification) | Adv. Computer Vision Final Project | Dec 2024
 - [Predicting NBA Basketball Player Salaries](https://github.com/wdeforest23/Predicting-NBA-Basketball-Player-Salaries) | Data Engineering Final Project | Dec 2023
 - [E-Bookstore Recommendation Engine (RFM and KNN clustering)](https://github.com/wdeforest23/EBookstore-RFM-Book-Recommendation-System) | Leadership & Consulting Final Project | Dec 2023
 - [Analyzing the Usage of Key Coronavirus Hashtags on Twitter to Track the Spread of Covid-19](https://github.com/wdeforest23/twitter_coronavirus) | Data Structures & Algorithms Final Project | May 2023
@@ -23,19 +32,24 @@
 - [Modeling the Performance-based Compensation of MLB Catchers](https://scholarship.claremont.edu/cmc_theses/3155/) | CMC Senior Thesis in Economics | Dec 2022
 - [Predicting Recidivism Using Logistic Regression and Random Forest Modeling](https://github.com/wdeforest23/Predicting-Recidivism-DS-Stats-Learning-2022) | Data Science for Stat. Learning Final Project | Dec 2021
 
-  ### 🌱 I'm Currently Reading...
-
+### 📚 I'm Currently Reading...
+- _Atomic Habits_, by James Clear
+- _Feel Good Productivity_, by Ali Abdaal
+- _The Worlds I See_, by Fei Fei Li
+- _AI for Good_, by Juan M. Lavista Ferres & William B. Weeks
+- _James_, by Percival Everett
+- _The Snowman_, by Jo Nesbo
+- [Morning Brew Daily](https://www.morningbrew.com/), My Favorite Daily Newsletter
+- [The Batch](https://www.deeplearning.ai/the-batch/), Weekly Newsletter from Andrew Ng
 
 ### Connect with me:
 - 📫 **williamdeforest29@gmail.com**
-- 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/william-deforest/))
+- 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/william-deforest/)
 
 <p align="left">
   <a href="https://linkedin.com/in/william-deforest" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://instagram.com/williamdeforest" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
-
----
 
 ### 🛠️ Languages and Tools
 <p>
