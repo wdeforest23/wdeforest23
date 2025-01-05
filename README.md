@@ -23,8 +23,9 @@
 
 ### 🔭 Projects...
 - [InternationAlly](https://github.com/Property-Pilot/Property-Pilot) | UChicago MS Applied Data Science Capstone Project - Awarded Honorable Mention | Dec 2024
-- [Will AI Take Your Job?](https://github.com/wdeforest23/Will-AI-Take-Your-Job--NLP-Final-Project) | Natural Language Processing Final Project - Awared Best in Class | Dec 2024
+- [Maximizing Job Visibility: LinkedIn Views Prediction](https://github.com/wdeforest23/linkedin-views-prediction) | ML Ops Final Project | Dec 2024
 - [Deep Vision System for Vehicle Make/Model Recognition and Multi-Object Detection](https://github.com/wdeforest23/vehicle-image-classification) | Adv. Computer Vision Final Project | Dec 2024
+- [Will AI Take Your Job?](https://github.com/wdeforest23/Will-AI-Take-Your-Job--NLP-Final-Project) | Natural Language Processing Final Project - Awared Best in Class | Mar 2023
 - [Predicting NBA Basketball Player Salaries](https://github.com/wdeforest23/Predicting-NBA-Basketball-Player-Salaries) | Data Engineering Final Project | Dec 2023
 - [E-Bookstore Recommendation Engine (RFM and KNN clustering)](https://github.com/wdeforest23/EBookstore-RFM-Book-Recommendation-System) | Leadership & Consulting Final Project | Dec 2023
 - [Analyzing the Usage of Key Coronavirus Hashtags on Twitter to Track the Spread of Covid-19](https://github.com/wdeforest23/twitter_coronavirus) | Data Structures & Algorithms Final Project | May 2023
