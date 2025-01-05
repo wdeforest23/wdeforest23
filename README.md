@@ -1,6 +1,5 @@
-![MasterHead](./github-header-image.png)
+![github banner](./github-banner.png)
 # Hey, I'm Will 👋
-![github banner]()
 
 ### 💁‍♂️ About Me...
 - I'm a recent MS in Applied Data Science Grad (and student athlete ⚾) from the **University of Chicago**
