@@ -1,9 +1,10 @@
-![github banner](./github-banner.png)
 # Hey, I'm Will 👋
+
+![github banner](./github_readme_banner.png)
 
 ### 💁‍♂️ About Me...
 - I'm a recent MS in Applied Data Science Grad (and student athlete ⚾) from the **University of Chicago**
-- I graduated in 2023 from **Claremont McKenna College** as an Econ and Data Science major
+- I graduated in 2023 from **Claremont McKenna College** where I majored in Econ and minored in Data Science
 - Home is Seattle, WA 🥰🏡
 - I love being a part of a team 🤝🙌
 - I'm fascinated by AI and I love reading about, exploring, and developing new AI applications
