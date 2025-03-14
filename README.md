@@ -5,20 +5,22 @@
 ### 💁‍♂️ About Me...
 - I'm a recent MS in Applied Data Science Grad (and student athlete ⚾) from the **University of Chicago**
 - I graduated in 2023 from **Claremont McKenna College** where I majored in Econ and minored in Data Science
-- Home is Seattle, WA 🥰🏡
-- I love being a part of a team 🤝🙌
-- I'm fascinated by AI and I love reading about, exploring, and developing new AI applications
-- I'm looking for my first full-time job 😱 and I'm interested in data/product analyst, data scientist, or product management roles
+- Home is **Seattle, WA** 🏡
+- I love being a part of a **team** 🤝
+- I'm fascinated by **AI** and I love reading about, exploring, and developing new AI applications
+- I'm looking for my **first full-time job** and I'm interested in **data/product analyst**, **data scientist**, or **product management** roles
 
 ### 🌱 I'm Currently Learning...
 - AI Agents:
   - Updating my UChicago Capstone Team's Project, [InternationAlly](https://github.com/Property-Pilot/Property-Pilot), to use a more agentic workflow!
+    - OpenAI Responses API and Agents SDK
     - LangChain
-    - crewAI
-- Data Science Interview Prep
-  - Ace the Data Science Interview
-  - Leetcode
-  - DataLemur
+- Workflow Automation
+  - n8n
+  - Zapier
+- How to best leverage AI code assistants (A.K.A ~vibe coding~)
+  - Cursor
+  - Windsurf
 - Snowboarding 🏂
 
 ### 🔭 Projects...
