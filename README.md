@@ -18,7 +18,7 @@
 - Workflow Automation
   - n8n
   - Zapier
-- How to best leverage AI code assistants (A.K.A ~vibe coding~)
+- Vibe Coding
   - Cursor
   - Windsurf
 - Snowboarding 🏂
