@@ -1,4 +1,4 @@
-# Hey, I'm Will 👋
+# Hey, I'm William 👋
 
 ![github banner](./github_readme_banner_2.png)
 
