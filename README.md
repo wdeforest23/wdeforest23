@@ -1,6 +1,6 @@
 # Hey, I'm Will 👋
 
-![github banner](./github_readme_banner.png)
+![github banner](./github_readme_banner_2.png)
 
 ### 💁‍♂️ About Me...
 - I'm a recent MS in Applied Data Science Grad (and student athlete ⚾) from the **University of Chicago**
