@@ -11,13 +11,13 @@
 - I'm looking for my **first full-time job** and I'm interested in **data/product analyst**, **data scientist**, or **product management** roles
 
 ### 🌱 Current Projects...
-- Professional Networking Assistant
-    - Focus: Workflow Automation
+- [Networking Agent](https://github.com/wdeforest23/Networking-Agent)
+    - Goal: Automate parts of my professional networking process
       - Custom GPTs
       - n8n
       - Cursor and OpenAI Responses API
-- InternationAlly-V2, [InternationAlly](https://github.com/Property-Pilot/Property-Pilot),
-  - Update my UChicago Capstone project to use SOTA agentic workflows!
+- [InternationAlly-V2](https://github.com/wdeforest23/InternationAlly-v2),
+  - Goal: Update my UChicago Capstone project to use SOTA agentic workflows
     - OpenAI Responses API and Agents SDK
     - LangChain
 - Analytics Automation
