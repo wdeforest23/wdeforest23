@@ -10,20 +10,19 @@
 - I'm fascinated by **AI** and I love reading about, exploring, and developing new AI applications
 - I'm looking for my **first full-time job** and I'm interested in **data/product analyst**, **data scientist**, or **product management** roles
 
-### 🌱 I'm Currently Learning...
-- AI Agents:
-  - Updating my UChicago Capstone Team's Project, [InternationAlly](https://github.com/Property-Pilot/Property-Pilot), to use a more agentic workflow!
+### 🌱 Current Projects...
+- Professional Networking Assistant
+    - Focus: Workflow Automation
+      - Custom GPTs
+      - n8n
+      - Cursor and OpenAI Responses API
+- InternationAlly-V2, [InternationAlly](https://github.com/Property-Pilot/Property-Pilot),
+  - Update my UChicago Capstone project to use SOTA agentic workflows!
     - OpenAI Responses API and Agents SDK
     - LangChain
-- Workflow Automation
-  - n8n
-  - Zapier
-- Vibe Coding
-  - Cursor
-  - Windsurf
-- Snowboarding 🏂
+- Analytics Automation
 
-### 🔭 Projects...
+### 🔭 Past Projects...
 - [InternationAlly](https://github.com/Property-Pilot/Property-Pilot) | UChicago MS Applied Data Science Capstone Project - Awarded Honorable Mention | Dec 2024
 - [Maximizing Job Visibility: LinkedIn Views Prediction](https://github.com/wdeforest23/linkedin-views-prediction) | ML Ops Final Project | Dec 2024
 - [Deep Vision System for Vehicle Make/Model Recognition and Multi-Object Detection](https://github.com/wdeforest23/vehicle-image-classification) | Adv. Computer Vision Final Project | Dec 2024
