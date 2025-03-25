@@ -20,7 +20,11 @@
   - Goal: Update my UChicago Capstone project to use SOTA agentic workflows
     - OpenAI Responses API and Agents SDK
     - LangChain
-- Analytics Automation
+- [Washington Wildfires](https://github.com/wdeforest23/washington-wildfires)
+  - Goal: Democratize access to climate risk data and help identify at-risk communities in Washington State
+    - Google BigQuery
+    - Environmental Data Visualization
+    - Natural Language to SQL
 
 ### 🔭 Past Projects...
 - [InternationAlly](https://github.com/Property-Pilot/Property-Pilot) | UChicago MS Applied Data Science Capstone Project - Awarded Honorable Mention | Dec 2024
