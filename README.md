@@ -11,12 +11,13 @@
 - I'm looking for my **first full-time job** and I'm interested in **data/product analyst**, **data scientist**, or **product management** roles
 
 ### 🌱 Current Projects...
+- These are active works in progress. Each linked README outlines the goal and direction. I love working with others, so if you have any ideas or are interested in collaborating please reach out!
 - [Networking Agent](https://github.com/wdeforest23/Networking-Agent)
     - Goal: Automate parts of my professional networking process
       - Custom GPTs
-      - n8n
+      - n8n (workflow automation tool)
       - Cursor and OpenAI Responses API
-- [InternationAlly-V2](https://github.com/wdeforest23/InternationAlly-v2),
+- [InternationAlly-V2](https://github.com/wdeforest23/InternationAlly-v2)
   - Goal: Update my UChicago Capstone project to use SOTA agentic workflows
     - OpenAI Responses API and Agents SDK
     - LangChain
