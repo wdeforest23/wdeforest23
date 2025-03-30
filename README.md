@@ -17,6 +17,7 @@
       - Custom GPTs
       - n8n (workflow automation tool)
       - Cursor and OpenAI Responses API
+<!--
 - [InternationAlly-V2](https://github.com/wdeforest23/InternationAlly-v2)
   - Goal: Update my UChicago Capstone project to use SOTA agentic workflows
     - OpenAI Responses API and Agents SDK
@@ -26,6 +27,7 @@
     - Google BigQuery
     - Environmental Data Visualization
     - Natural Language to SQL
+-->
 
 ### 🔭 Past Projects...
 - [InternationAlly](https://github.com/Property-Pilot/Property-Pilot) | UChicago MS Applied Data Science Capstone Project - Awarded Honorable Mention | Dec 2024
