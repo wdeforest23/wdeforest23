@@ -13,10 +13,10 @@
 ### 🌱 Current Projects...
 - These are active works in progress. Each linked README outlines the goal and direction. I love working with others, so if you have any ideas or are interested in collaborating please reach out!
 - [Networking Agent](https://github.com/wdeforest23/Networking-Agent)
-    - Goal: Automate parts of my professional networking process
-      - Custom GPTs
+    - Goal: Automate parts of my professional networking process. Trying a couple of different approaches including:
+      - Custom GPTs from OpenAI
       - n8n (workflow automation tool)
-      - Cursor and OpenAI Responses API
+      - Local Web App built with Cursor and OpenAI Responses API
 <!--
 - [InternationAlly-V2](https://github.com/wdeforest23/InternationAlly-v2)
   - Goal: Update my UChicago Capstone project to use SOTA agentic workflows
