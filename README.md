@@ -3,12 +3,12 @@
 ![github banner](./github_readme_banner_2.png)
 
 ### 💁‍♂️ About Me...
+- I'm currently a Data Scientist @ Collective Data Solutions where I help turn high-volume mobile signals into privacy-conscious, model-ready data feeds
 - I'm a recent MS in Applied Data Science Grad (and student athlete ⚾) from the **University of Chicago**
 - I graduated in 2023 from **Claremont McKenna College** where I majored in Econ and minored in Data Science
-- Home is **Seattle, WA** 🏡
-- I love being a part of a **team** 🤝
+- Home is **Seattle, WA**
+- I love being a part of a **team**, whether on the field or in the office
 - I'm fascinated by **AI** and I love reading about, exploring, and developing new AI applications
-- I'm looking for my **first full-time job** and I'm interested in **data/product analyst**, **data scientist**, or **product management** roles
 
 ### 🌱 Current Projects...
 - These are active works in progress. Each linked README outlines the goal and direction. I love working with others, so if you have any ideas or are interested in collaborating please reach out!
