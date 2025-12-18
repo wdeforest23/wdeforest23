@@ -6,6 +6,7 @@
 - I'm currently a Data Scientist @ Collective Data Solutions where I help turn high-volume mobile device signals into privacy-conscious, model-ready data feeds
 - I'm a recent MS in Applied Data Science Grad (and student athlete ⚾) from the **University of Chicago**
 - I graduated in 2023 from **Claremont McKenna College** where I majored in Econ, minored in Data Science and was a 2x baseball captain
+- I've worked in an array of fields including commercial real estate, sports analytics, and tech and have found that I enjoy myself most when building something new and useful
 - Home is **Seattle, WA**
 - I love being a part of a **team**, whether on the field or in the office
 - I'm fascinated by **AI** and I love reading about, exploring, and building new AI applications
